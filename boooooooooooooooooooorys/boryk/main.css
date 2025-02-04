@@ -11,6 +11,11 @@
 :before {
   --tw-content: "";
 }
+
+.aura{
+  width: 100px;
+  height: 100px;
+}
 html {
   line-height: 1.5;
   -webkit-text-size-adjust: 100%;
